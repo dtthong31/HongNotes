@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4201BE77-E33D-415D-91D7-88802248067C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C37752AB-BE1B-4BEE-82CD-8DAEEB249631"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Note/NewNoteView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "saveNote()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9070931-A2D7-4C00-A2DC-7FEA13313539"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Modules/Note/NewNoteModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "pushNewNote(value:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A9070931-A2D7-4C00-A2DC-7FEA13313539 - 606ab4fad12489e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hong_Notes.NewNoteModel.pushNewNote(value: Hong_Notes.Note) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Modules/Note/NewNoteModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "451">
+               </Location>
+               <Location
+                  uuid = "A9070931-A2D7-4C00-A2DC-7FEA13313539 - 606ab4fad1248e07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hong_Notes.NewNoteModel.pushNewNote(value: Hong_Notes.Note) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Modules/Note/NewNoteModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "115">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "129B3BC5-D80E-425A-AFB1-AAD6E77A544E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Modules/Home/HomeModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getNotes()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADD57E41-DA31-423A-9028-4EEA08010085"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Content/ContentModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "isRegisterUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ADD57E41-DA31-423A-9028-4EEA08010085 - a3967ba600202504"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Hong_Notes.ContentModel.isRegisterUser() -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Content/ContentModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "ADD57E41-DA31-423A-9028-4EEA08010085 - a3967ba600202504"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Hong_Notes.ContentModel.isRegisterUser() -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Content/ContentModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "ADD57E41-DA31-423A-9028-4EEA08010085 - 6e3976d081cd61e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in Hong_Notes.ContentModel.isRegisterUser() -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Content/ContentModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FEC22D3-2355-41BB-A150-CE8C74D4FB5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Service/NoteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "createNote(forUserId:newNote:completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6FEC22D3-2355-41BB-A150-CE8C74D4FB5A - fc9f027e86218f9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.createNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completed: () -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "4229">
+               </Location>
+               <Location
+                  uuid = "6FEC22D3-2355-41BB-A150-CE8C74D4FB5A - fc9f027e86218f9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.createNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completed: () -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "4402">
+               </Location>
+               <Location
+                  uuid = "6FEC22D3-2355-41BB-A150-CE8C74D4FB5A - fc9f027e86218f9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.createNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completed: () -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "4355">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4577EA00-83BF-4BF1-BF4A-D8EFB7CA3A1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Service/NoteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "createNote(forUserId:newNote:completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87912D48-BF91-4FDB-B7FB-5B4A7F0AFBA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Service/NoteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "createNote(forUserId:newNote:completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87912D48-BF91-4FDB-B7FB-5B4A7F0AFBA6 - fc9f027e86219000"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.createNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completed: () -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2977">
+               </Location>
+               <Location
+                  uuid = "87912D48-BF91-4FDB-B7FB-5B4A7F0AFBA6 - df98b429646191c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Error&gt;, __C.FIRDatabaseReference) -&gt; () in closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.createNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completed: () -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "106">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1E79C50-C2F2-4438-AECC-091561923377"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Service/NoteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "createNote(forUserId:newNote:completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1E79C50-C2F2-4438-AECC-091561923377 - fc9f027e86218ed6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.createNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completed: () -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "C1E79C50-C2F2-4438-AECC-091561923377 - fc9f027e86218ed6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.createNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completed: () -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+               <Location
+                  uuid = "C1E79C50-C2F2-4438-AECC-091561923377 - fc9f027e86218ed6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.createNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completed: () -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1561">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAA5E40D-F7C0-43B1-BAF4-FF6B1F642332"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Service/NoteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "updateNote(forUserId:newNote:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAA5E40D-F7C0-43B1-BAF4-FF6B1F642332 - cb61c981d6da8da8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.updateNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "774">
+               </Location>
+               <Location
+                  uuid = "EAA5E40D-F7C0-43B1-BAF4-FF6B1F642332 - cb61c981d6da8d24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.updateNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1661">
+               </Location>
+               <Location
+                  uuid = "EAA5E40D-F7C0-43B1-BAF4-FF6B1F642332 - cb61c981d6da8d24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.updateNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+               <Location
+                  uuid = "EAA5E40D-F7C0-43B1-BAF4-FF6B1F642332 - cb61c981d6da8d24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.updateNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D3546DE-7B71-4FF1-B403-D8F77D14229D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Service/NoteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "updateNote(forUserId:newNote:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D3546DE-7B71-4FF1-B403-D8F77D14229D - cb61c981d6da8da8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.updateNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "774">
+               </Location>
+               <Location
+                  uuid = "2D3546DE-7B71-4FF1-B403-D8F77D14229D - 213ec416258b22aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;, __C.FIRDatabaseReference) -&gt; () in closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.updateNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "2D3546DE-7B71-4FF1-B403-D8F77D14229D - cb61c981d6da8d89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.updateNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "3378">
+               </Location>
+               <Location
+                  uuid = "2D3546DE-7B71-4FF1-B403-D8F77D14229D - cb61c981d6da8d89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.updateNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "4167">
+               </Location>
+               <Location
+                  uuid = "2D3546DE-7B71-4FF1-B403-D8F77D14229D - cb61c981d6da8d89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.updateNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "4094">
+               </Location>
+               <Location
+                  uuid = "2D3546DE-7B71-4FF1-B403-D8F77D14229D - cb61c981d6da8d89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hong_Notes.NoteService.updateNote(forUserId: Swift.String, newNote: Hong_Notes.Note, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Hong Notes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dtthong/Applications/Hong%20Notes/Hong%20Notes/Service/NoteService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "4182">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F248E8EE-F029-4895-B51F-FE1B63065EDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Service/NoteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "updateNote(forUserId:newNote:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03A565EC-FD17-469C-80FD-CA779FA795CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hong Notes/Service/NoteService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "updateNote(forUserId:newNote:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
