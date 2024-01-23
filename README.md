@@ -29,3 +29,6 @@ This application allows users to interact with a note-taking feature. It integra
 Clone the repository: git clone 
 Install dependencies: pod install (for iOS).
 Running the App: Open the project in XCode and run it on a simulator or physical device (you need apple developer account).
+
+**Demo**
+https://github.com/dtthong31/HongNotes/assets/91777570/25a7572f-b81d-42c7-adb3-edd029737cab
